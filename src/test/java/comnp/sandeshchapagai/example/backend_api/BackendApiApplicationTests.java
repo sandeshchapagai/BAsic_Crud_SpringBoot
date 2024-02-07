@@ -1,10 +1,10 @@
-package com.np.sandeshhapagai.api;
+package comnp.sandeshchapagai.example.backend_api;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class ApiApplicationTests {
+class BackendApiApplicationTests {
 
 	@Test
 	void contextLoads() {

@@ -1,13 +1,13 @@
-package com.np.sandeshhapagai.api;
+package comnp.sandeshchapagai.example.backend_api;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class ApiApplication {
+public class BackendApiApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(ApiApplication.class, args);
+		SpringApplication.run(BackendApiApplication.class, args);
 	}
 
 }
