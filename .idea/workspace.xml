@@ -5,14 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c4225025-fbc8-46ed-ad3d-7d95bd59defa" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/comnp/sandeshchapagai/example/backend_api/Controller/Store.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/comnp/sandeshchapagai/example/backend_api/Repository/StudentREpo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/comnp/sandeshchapagai/example/backend_api/StudentServices.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/comnp/sandeshchapagai/example/backend_api/BackendApiApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/comnp/sandeshchapagai/example/backend_api/BackendApiApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/comnp/sandeshchapagai/example/backend_api/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/comnp/sandeshchapagai/example/backend_api/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/comnp/sandeshchapagai/example/backend_api/Controller/StudentController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/comnp/sandeshchapagai/example/backend_api/Controller/StudentController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/comnp/sandeshchapagai/example/backend_api/Repository/StudentREpo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/comnp/sandeshchapagai/example/backend_api/Repository/StudentREpo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/comnp/sandeshchapagai/example/backend_api/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/comnp/sandeshchapagai/example/backend_api/Entity/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/comnp/sandeshchapagai/example/backend_api/StudentServices.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/comnp/sandeshchapagai/example/backend_api/Service/StudentServices.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,13 +39,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/sande/OneDrive/Desktop/Projects/SpringBoot/backend_api/src/main"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/sande/OneDrive/Desktop/Projects/SpringBoot/backend_api/src/main&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\sande\OneDrive\Desktop\Projects\SpringBoot\backend_api\src\main" />
@@ -60,7 +57,7 @@
       <module name="backend_api.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="comnp.sandeshchapagai.example.backend_api.*" />
+          <option name="PATTERN" value="comnp.sandeshchapagai.example.backend_api.Service.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>

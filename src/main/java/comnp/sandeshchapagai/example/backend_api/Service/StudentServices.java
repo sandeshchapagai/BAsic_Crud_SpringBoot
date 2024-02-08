@@ -1,8 +1,11 @@
-package comnp.sandeshchapagai.example.backend_api;
+package comnp.sandeshchapagai.example.backend_api.Service;
 
 import comnp.sandeshchapagai.example.backend_api.Repository.StudentREpo;
+import comnp.sandeshchapagai.example.backend_api.Entity.Student;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
 
+@Service
 public class StudentServices {
 
     @Autowired

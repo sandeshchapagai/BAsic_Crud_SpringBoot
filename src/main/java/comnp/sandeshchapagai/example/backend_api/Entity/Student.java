@@ -1,4 +1,4 @@
-package comnp.sandeshchapagai.example.backend_api;
+package comnp.sandeshchapagai.example.backend_api.Entity;
 
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;
@@ -14,22 +14,12 @@ import  lombok.NoArgsConstructor;
 public class Student {
 
 @Id
-    @Column(name = "ID")
+    @Column(name = "id")
     @GeneratedValue
     private int id;
 
 
     @Column(name = "name")
-    @GeneratedValue
-    private int name;
-
-    @Column(name = "Address")
-    @GeneratedValue
-    private int address;
-
-    @Column(name = "classes")
-    @GeneratedValue
-    private int classes;
-
+    private String name;
 
 }
