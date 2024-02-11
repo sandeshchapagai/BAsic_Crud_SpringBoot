@@ -5,6 +5,8 @@ import comnp.sandeshchapagai.example.backend_api.Entity.Student;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
+import java.util.List;
+
 @Service
 public class StudentServices {
 
@@ -14,5 +16,9 @@ public class StudentServices {
     public Student saveDetails(Student student){
         return studentREpo.save(student);
     }
+    public List<Student> getAllDetails(){
+        return studentREpo.findAll();
+    }
+
 
 }

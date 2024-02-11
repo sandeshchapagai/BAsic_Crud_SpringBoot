@@ -7,9 +7,10 @@
     <list default="true" id="c4225025-fbc8-46ed-ad3d-7d95bd59defa" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/comnp/sandeshchapagai/example/backend_api/Controller/StudentController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/comnp/sandeshchapagai/example/backend_api/Controller/StudentController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/comnp/sandeshchapagai/example/backend_api/Entity/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/comnp/sandeshchapagai/example/backend_api/Entity/Student.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/comnp/sandeshchapagai/example/backend_api/Repository/StudentREpo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/comnp/sandeshchapagai/example/backend_api/Repository/StudentREpo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/comnp/sandeshchapagai/example/backend_api/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/comnp/sandeshchapagai/example/backend_api/Entity/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/comnp/sandeshchapagai/example/backend_api/StudentServices.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/comnp/sandeshchapagai/example/backend_api/Service/StudentServices.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/comnp/sandeshchapagai/example/backend_api/Service/StudentServices.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/comnp/sandeshchapagai/example/backend_api/Service/StudentServices.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
