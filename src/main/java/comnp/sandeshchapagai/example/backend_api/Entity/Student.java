@@ -15,10 +15,35 @@ public class Student {
 
     @Id
     @Column( name = "id")
-    @GeneratedValue
-    private int id;
+    public int id;
+
+    public int getId() {
+        return id;
+    }
+
+    public void setId(int id) {
+        this.id = id;
+    }
+
 
     @Column(name = "name")
     public String name;
+    public  String getName(){
+        return  name;
+    }
+
+    public void setName(String name) {
+        this.name = name;
+    }
+
+    @Column( name = "class")
+    public  String student_class;
+       public  String getStudent_class(){
+           return this.student_class;
+       }
+       public  String setStudent_class(String student_class){
+          return this.student_class = student_class;
+       }
+
 
 }
