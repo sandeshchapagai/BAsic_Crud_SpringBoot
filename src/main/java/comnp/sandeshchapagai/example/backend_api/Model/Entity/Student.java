@@ -1,11 +1,8 @@
-package comnp.sandeshchapagai.example.backend_api.Entity;
-
+package comnp.sandeshchapagai.example.backend_api.Model.Entity;
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
-
-
 @Entity
 @Data
 @Table(name = "student")
@@ -41,8 +38,8 @@ public class Student {
        public  String getStudent_class(){
            return this.student_class;
        }
-       public  String setStudent_class(String student_class){
-          return this.student_class = student_class;
+       public void setStudent_class(String student_class){
+           this.student_class = student_class;
        }
 
 
