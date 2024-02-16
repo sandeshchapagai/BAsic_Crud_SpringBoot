@@ -6,10 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="c4225025-fbc8-46ed-ad3d-7d95bd59defa" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/comnp/sandeshchapagai/example/backend_api/Controller/StudentController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/comnp/sandeshchapagai/example/backend_api/Controller/StudentController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/comnp/sandeshchapagai/example/backend_api/Entity/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/comnp/sandeshchapagai/example/backend_api/Model/Entity/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/comnp/sandeshchapagai/example/backend_api/Repository/StudentREpo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/comnp/sandeshchapagai/example/backend_api/Repository/StudentREpo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/comnp/sandeshchapagai/example/backend_api/Service/StudentServices.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/comnp/sandeshchapagai/example/backend_api/Service/StudentServices.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
