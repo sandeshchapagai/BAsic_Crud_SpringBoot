@@ -19,7 +19,12 @@ public class Teacher {
      private Integer tage;
 
      @OneToOne(cascade = CascadeType.ALL)
-    private Student student;
+    private Book book;
+     public  Teacher(int tid,String tnmae,int tage){
+         this.tid = tid;
+         this.tname=tnmae;
+         this.tage=tage;
+     }
 
 
 

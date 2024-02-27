@@ -2,6 +2,7 @@ package comnp.sandeshchapagai.example.backend_api.Controller;
 import comnp.sandeshchapagai.example.backend_api.Model.Entity.Student;
 import comnp.sandeshchapagai.example.backend_api.Service.StudentServices;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.*;
 import java.util.List;
 

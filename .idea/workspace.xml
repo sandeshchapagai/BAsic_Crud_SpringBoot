@@ -4,13 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c4225025-fbc8-46ed-ad3d-7d95bd59defa" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/comnp/sandeshchapagai/example/backend_api/Model/Entity/Teacher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/comnp/sandeshchapagai/example/backend_api/Repository/TeacherRepo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/comnp/sandeshchapagai/example/backend_api/Service/TeacherServices.java" afterDir="false" />
+    <list default="true" id="c4225025-fbc8-46ed-ad3d-7d95bd59defa" name="Changes" comment="make new teacher entity">
+      <change afterPath="$PROJECT_DIR$/src/main/java/comnp/sandeshchapagai/example/backend_api/Model/Entity/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/comnp/sandeshchapagai/example/backend_api/Service/Display.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/comnp/sandeshchapagai/example/backend_api/Repository/StudentREpo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/comnp/sandeshchapagai/example/backend_api/Repository/StudentREpo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/comnp/sandeshchapagai/example/backend_api/Service/StudentServices.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/comnp/sandeshchapagai/example/backend_api/Service/StudentServices.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/comnp/sandeshchapagai/example/backend_api/Controller/StudentController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/comnp/sandeshchapagai/example/backend_api/Controller/StudentController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/comnp/sandeshchapagai/example/backend_api/Model/Entity/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/comnp/sandeshchapagai/example/backend_api/Model/Entity/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/comnp/sandeshchapagai/example/backend_api/Model/Entity/Teacher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/comnp/sandeshchapagai/example/backend_api/Model/Entity/Teacher.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,6 +83,15 @@
       <option name="presentableId" value="Default" />
       <updated>1707289691822</updated>
     </task>
+    <task id="LOCAL-00001" summary="make new teacher entity">
+      <option name="closed" value="true" />
+      <created>1708329838808</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1708329838808</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -94,5 +104,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="make new teacher entity" />
+    <option name="LAST_COMMIT_MESSAGE" value="make new teacher entity" />
   </component>
 </project>
