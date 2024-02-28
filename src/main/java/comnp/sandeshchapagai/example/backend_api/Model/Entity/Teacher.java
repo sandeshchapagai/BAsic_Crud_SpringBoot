@@ -12,20 +12,19 @@ import lombok.NoArgsConstructor;
 @AllArgsConstructor
 public class Teacher {
     @Id
-    @GeneratedValue(strategy = GenerationType.AUTO)
     @Column(name = "t-id")
-     private  long tid;
+    @GeneratedValue(strategy = GenerationType.AUTO)
+     private  int tid;
+
+
+    @Column(name = "tname")
      private String tname;
-     private Integer tage;
 
-     @OneToOne(cascade = CascadeType.ALL)
-    private Book book;
-     public  Teacher(int tid,String tnmae,int tage){
-         this.tid = tid;
-         this.tname=tnmae;
-         this.tage=tage;
-     }
+    @Column(name = "email")
+     private String email;
 
+    @Column(name = "password")
+    private  String password;
 
 
 }
