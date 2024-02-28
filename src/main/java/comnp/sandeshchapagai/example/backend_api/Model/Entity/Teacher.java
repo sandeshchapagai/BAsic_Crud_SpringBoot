@@ -16,7 +16,6 @@ public class Teacher {
     @GeneratedValue(strategy = GenerationType.AUTO)
      private  int tid;
 
-
     @Column(name = "tname")
      private String tname;
 
