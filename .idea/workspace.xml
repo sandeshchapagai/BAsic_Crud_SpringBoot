@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c4225025-fbc8-46ed-ad3d-7d95bd59defa" name="Changes" comment="make new teacher entity">
+      <change afterPath="$PROJECT_DIR$/src/main/java/comnp/sandeshchapagai/example/backend_api/Dto/TeacherDTO.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/comnp/sandeshchapagai/example/backend_api/Model/Entity/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/comnp/sandeshchapagai/example/backend_api/Model/Entity/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/comnp/sandeshchapagai/example/backend_api/Model/Entity/Teacher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/comnp/sandeshchapagai/example/backend_api/Model/Entity/Teacher.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/comnp/sandeshchapagai/example/backend_api/Service/TeacherServices.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/comnp/sandeshchapagai/example/backend_api/Service/TeacherServices.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/comnp/sandeshchapagai/example/backend_api/Controller/TeacherController.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
